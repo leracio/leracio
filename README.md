@@ -1,4 +1,4 @@
-Hi 👋 I’m Fatih Begde.I graduated from Gazi University Mechanical Engineering Department in 2021.
+Hi 👋 I’m Fatih Begde.I graduated from Gazi University Mechanical Engineering Department in 2020.
 
 - Skills: HTML/Python/MATLAB
 - 🌱 I’m currently learning Node JS,Javascript
